@@ -1,0 +1,5 @@
+E:\工作额外的能力提升\设计模式\ObserverPattern\BridgePattern\bin\Debug\BridgePattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\BridgePattern\bin\Debug\BridgePattern.pdb
+E:\工作额外的能力提升\设计模式\ObserverPattern\BridgePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\工作额外的能力提升\设计模式\ObserverPattern\BridgePattern\obj\x86\Debug\BridgePattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\BridgePattern\obj\x86\Debug\BridgePattern.pdb

@@ -1,0 +1,10 @@
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\SingletonPattern.Form1.resources
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\SingletonPattern.FormToolbox.resources
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\SingletonPattern.Properties.Resources.resources
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\SingletonPattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\SingletonPattern\obj\x86\Debug\SingletonPattern.pdb

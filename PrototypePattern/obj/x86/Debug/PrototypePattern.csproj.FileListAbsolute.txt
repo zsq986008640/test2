@@ -1,0 +1,5 @@
+E:\工作额外的能力提升\设计模式\ObserverPattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\工作额外的能力提升\设计模式\ObserverPattern\PrototypePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\工作额外的能力提升\设计模式\ObserverPattern\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb

@@ -1,0 +1,6 @@
+E:\工作额外的能力提升\设计模式\ObserverPattern\AbstractFP\bin\Debug\AbstractFP.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\AbstractFP\bin\Debug\AbstractFP.pdb
+E:\工作额外的能力提升\设计模式\ObserverPattern\AbstractFP\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\工作额外的能力提升\设计模式\ObserverPattern\AbstractFP\obj\x86\Debug\AbstractFP.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\AbstractFP\obj\x86\Debug\AbstractFP.pdb
+E:\工作额外的能力提升\设计模式\ObserverPattern\AbstractFP\bin\Debug\AbstractFP.exe.config

@@ -1,0 +1,5 @@
+E:\工作额外的能力提升\设计模式\ObserverPattern\AdpaterPattern\bin\Debug\AdpaterPattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\AdpaterPattern\bin\Debug\AdpaterPattern.pdb
+E:\工作额外的能力提升\设计模式\ObserverPattern\AdpaterPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\工作额外的能力提升\设计模式\ObserverPattern\AdpaterPattern\obj\x86\Debug\AdpaterPattern.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\AdpaterPattern\obj\x86\Debug\AdpaterPattern.pdb

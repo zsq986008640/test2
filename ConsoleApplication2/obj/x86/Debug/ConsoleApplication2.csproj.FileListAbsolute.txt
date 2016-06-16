@@ -1,0 +1,5 @@
+E:\工作额外的能力提升\设计模式\ObserverPattern\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\工作额外的能力提升\设计模式\ObserverPattern\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\工作额外的能力提升\设计模式\ObserverPattern\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+E:\工作额外的能力提升\设计模式\ObserverPattern\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
